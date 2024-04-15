@@ -6,3 +6,4 @@ This Python script utilizes the `wmi`  library to check the system's hardware co
 
 Run the script in a Windows environment where Python and the necessary libraries (`wmi` and `rich`) are installed. Ensure to activate a Python virtual environment if applicable.
 
+![image](https://github.com/MervanKanat/SystemCheckerForAI/assets/65478361/2bc1d028-4532-49c6-9b0b-b942e4c6022d)
